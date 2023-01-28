@@ -97,12 +97,18 @@ body {
     border-radius: 4px;
     font-weight: bold;
     cursor: pointer;
+    text-transform: uppercase;
   }
   
   button:hover {
       background: #4EA788;
   }
   
+  .zap1 {
+    display: block;
+    height: 0px;
+  }
+
   footer {
     font-size: 14px;
     line-height: 28px;
